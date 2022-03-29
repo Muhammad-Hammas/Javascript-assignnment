@@ -1,4 +1,3 @@
-
             // Chapter1
 // Q NO 1 
         //alert("Hello");
@@ -9,7 +8,13 @@
 // Q NO 3
         //alert("Welcome to \njava Class");
 
-            // CHAPTER 2
+// Q NO 4
+        // alert("Welcome to JS land");
+        // alert("Happy Coding")
+
+// Q NO 5
+        // console.log("Yeah .. I can run JS through my web browser console");
+                     // CHAPTER 2
 // Q NO 1
         //var name = "Hammas";
 
@@ -40,7 +45,7 @@
         // alert(book);
 
 // Q NO 8
-        // document.write("G Sir javascript se b content likhna Agya");
+        // document.write("Yeah i can write through JavaScript");
 
 // Q NO 9
         // var content = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
@@ -270,11 +275,27 @@
         // }
 
 // Q NO 11
-// var num1 = +prompt("Enter Value")
-// var operator = +prompt("Select Operator")
-// var num2 = +prompt("Enter Value")
-// var result = (num1 + operator + num2)
-// alert(result)
+        // var num1 = +prompt("Enter First Number");
+        // var operator = prompt("Enter the Operator")
+        // var num2 = +prompt("Enter Second Number");
+
+        // if (operator == "+") {
+        //     var add = num1 + num2
+        //     document.write(add);
+        // }else if (operator == "-") {
+        //     var sub = num1 - num2
+        //      document.write( num1 +"-"+ num2 +"="+ sub);
+        // }else if (operator == "/") {
+        //         var sub = num1 / num2
+        //          document.write( num1 +"/"+ num2 +"="+ sub);
+        // }else if (operator == "*") {
+        //     var sub = num1 * num2
+        //      document.write( num1 +"*"+ num2 +"="+ sub);
+        // }else {
+        //     document.write("Error");
+        // }
+
+
 
 
 
