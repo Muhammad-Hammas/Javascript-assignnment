@@ -172,7 +172,7 @@
         // document.write(sub2 + " &nbsp &nbsp &nbsp " + totalMarks+ " &nbsp &nbsp &nbsp " + mark2 + " &nbsp &nbsp &nbsp " + "%" + mark2/totalMarks*100 +"<br/>");
         // document.write(sub3 + " &nbsp &nbsp &nbsp " + totalMarks+ " &nbsp &nbsp &nbsp " + mark3 + " &nbsp &nbsp &nbsp " + "%" + mark3/totalMarks*100);
 
-                    // CHAPTER 9TO12
+                    // CHAPTER 9TO11
 // Q NO 1
 //     var cityName = prompt("Enter City Name")
 //     if (cityName == "karachi" | "KARACHI" | "Karachi"){
@@ -295,7 +295,58 @@
         //     document.write("Error");
         // }
 
-
+                // CHAPTER NO 12 to 13
+// Q No 1
+        // var userInput = +prompt("Enter value")
+        // if (userInput >= 10 && userInput <= 40){
+        //         alert("Its a uppercase")
+        // }
+        // else if (userInput >= 40 && userInput <= 100){
+        //         alert("Its a uppercase")
+        // }
+        // else{alert("Its a Number")}
+// Q NO 2
+        // var userInput1 = +prompt("Enter 1st value")
+        // var userInput2 = +prompt("Enter 2nd value")
+        // if(userInput1 >= userInput2){
+        //         alert(userInput1)
+        // }else if(userInput1 <= userInput2){
+        //         alert(userInput2)
+        // }else{
+        //         alert=(userInput1)
+        // }
+// Q NO 3
+        // var userInput = +prompt("Enter Number");
+        // if(userInput >= 0){
+        //         alert("Value is Positive") 
+        // }else if(userInput <= 0){
+        //         alert("Value is Negative") 
+        // }
+// Q NO 4
+        // var userInput = prompt("Enter any 1 character of vowel")
+        // if ( userInput == "a" | "e" | "i" | "o" | "u") {
+        //         alert("True")
+        // }
+        // else {
+        //         alert("False")
+        // }
+// Q NO 5
+        // var password = prompt("Enter Password")
+        // var confirm = prompt("Re-Enter Password");
+        // if(password == confirm){
+        //         alert("Correct! The password you entered matches the original password")
+        // }
+        // else if (password != confirm){
+        //         alert("Incorrect password")
+        // }
+        // else {alert("Empty password")}
+// Q No 6
+        // var hour = 10;
+        // if (hour < 20) {
+        // greeting = "Good day";
+        // else
+        // greeting = "Good Night";
+        // }
 
 
 
