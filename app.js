@@ -129,6 +129,26 @@
         // document.write(num4) br;
         // document.write(num4 % 3);
 
+// Q NO 
+            //  var num = " Total cost to buy 5 tickets to a movie is \n";
+            //  var num1 = "600";
+            //  var num2 = 5;
+            //  var result = num  + num1 * num2;
+            //  document.write(result);
+
+// Q No 5
+            var table = 8;
+            console.log(8+"x"+1+"="+8)
+            console.log(8+"x"+2+"="+8*2)
+            console.log(8+"x"+3+"="+8*3)
+            console.log(8+"x"+4+"="+8*4)
+            console.log(8+"x"+5+"="+8*5)
+            console.log(8+"x"+6+"="+8*6)
+            console.log(8+"x"+7+"="+8*7)
+            console.log(8+"x"+8+"="+8*8)
+            console.log(8+"x"+9+"="+8*9)
+            console.log(8+"x"+10+"="+8*10)
+
                 // CHAPTER 6 TO 9
 // Q NO 1
         // var num1 = 10;
